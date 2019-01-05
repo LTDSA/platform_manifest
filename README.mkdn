@@ -29,7 +29,7 @@ time mka kronic
 
 ## 提交补丁 ##
 
-您只需在“https://review.aosiprom.com” 上注册即可将补丁提交给 AOSiP 。
+您只需在 “https://review.aosiprom.com” 上注册即可将补丁提交给 AOSiP 。
 
 打开终端以创建向 gerrit 提交补丁所需的 ssh 密钥并输入：
 
